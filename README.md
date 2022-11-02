@@ -71,9 +71,9 @@ The minimum amount of required tokens is: **0.1**
 
 ### Enviroment setting 
 
-1. Unzip the downloaded project zip and cd into `opensea-nfts-bulk-minter-lister` folder.
+1. Clone the project repo with command `git clone https://github.com/francescomiliani/nft-labcamp` and cd into `nft-labcamp` folder.
 
-2. Install node_modules packages and project dependencies for **uploading part** by executing on your terminal under the root of the project:
+2. Install node_modules packages and project dependencies for **batch minting part** by executing on your terminal under the root of the project:
 
  ```bash
 npm install

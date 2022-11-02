@@ -165,7 +165,7 @@ You can verify the correct deploy either via web browser on **OpenSea web site**
      - **OpenSea Mainnet**:
         - **Ethereum implicit**: https://opensea.io/assets/<smart contract address\>/<token id\>
         - **Ethereum**: https://opensea.io/assets/ethereum/<smart contract address\>/<token id\> 
-        - **Polygon**:  https://opensea.io/assets/polygon/<smart contract address\>/<token id\>
+        - **Polygon**:  https://opensea.io/assets/matic/<smart contract address\>/<token id\>
  
   - **API**:
      - (1) Get Asset (Mumbai NOT available)
@@ -189,7 +189,7 @@ You can verify the correct deploy either via web browser on **OpenSea web site**
         - **OpenSea Mainnet**:
            - **Ethereum implicit**: https://api.opensea.io/asset/<smart contract address\>/\<token id\>/validate
            - **Ethereum**: https://api.opensea.io/asset/ethereum/<smart contract address\>/\<token id\>/validate 
-           - **Polygon**: https://api.opensea.io/asset/polygon/<smart contract address\>/\<token id\>/validate
+           - **Polygon**: https://api.opensea.io/asset/matic/<smart contract address\>/\<token id\>/validate
 
 You can click on your collection name link on the right to see your entire NFT collection with all images.
 

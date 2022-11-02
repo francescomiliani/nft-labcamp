@@ -1,0 +1,46 @@
+{
+	"name": "_NAME_",
+	"description": "_DESCRIPTION_",
+	"image": "_IMAGE_",
+	"attributes": [
+	    {
+	      "trait_type": "Base", 
+	      "value": "Cat"
+	    }, 
+	    {
+	      "trait_type": "Eyes", 
+	      "value": "Big"
+	    }, 
+	    {
+	      "trait_type": "Mouth", 
+	      "value": "Surprised"
+	    }, 
+	    {
+	      "trait_type": "Level", 
+	      "value": "_LEVEL_"
+	    }, 
+	    {
+	      "trait_type": "Stamina", 
+	      "value": "_STAMINA_"
+	    }, 
+	    {
+	      "trait_type": "Personality", 
+	      "value": "Lovely"
+	    }, 
+	    {
+	      "display_type": "boost_number", 
+	      "trait_type": "Switness", 
+	      "value": "_SWITNESS_"
+	    }, 
+	    {
+	      "display_type": "boost_percentage", 
+	      "trait_type": "Stamina Increase", 
+	      "value": "_STAMINA_INCREASE_"
+	    }, 
+	    {
+	      "display_type": "number", 
+	      "trait_type": "Generation", 
+	      "value": "_GENERATION_"
+	    }
+	  ]
+}

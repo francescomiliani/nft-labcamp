@@ -1,0 +1,27 @@
+{
+  "name": "opensea-lister",
+  "version": "0.1.0",
+  "description": "OpenSea's NFTs lister.",
+  "main": "index.js",
+  "scripts": {
+    "ganache-cli": "ganache-cli -d -p 7545 --gasLimit=10000000",
+    "test": "DEPLOY_ALL=1 truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francescomiliani/opensea-nfts-bulk-minter-lister.git"
+  },
+  "author": "Francesco Miliani",
+  "license": "ISC",
+  "homepage": "https://github.com/francescomiliani/opensea-nfts-bulk-minter-lister#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "dotenv": "^16.0.3",
+    "opensea-js": "^4.0.12",
+    "yarn": "^1.22.4"
+  },
+  "engines": {
+    "node": "^16.15.x",
+    "yarn": "~1.22.4"
+  }
+}

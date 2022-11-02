@@ -1,0 +1,21 @@
+{
+  "name": "opensea-nfts-bulk-minter-lister",
+  "version": "0.1.1",
+  "description": "A script to automatize the NFT minting and listing on OpenSea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Miliani",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "axios": "^1.1.2",
+    "dotenv": "^10.0.0",
+    "ipfs": "^0.62.1",
+    "ipfs-http-client": "^53.0.1",
+    "truffle": "^5.4.24",
+    "yarn": "^1.22.4"
+  }
+}
